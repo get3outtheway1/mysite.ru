@@ -1,0 +1,143 @@
+# Translation of Themes - Scolax in Russian
+# This file is distributed under the same license as the Themes - Scolax package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-17 15:55:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Scolax\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Scolax is a trending WordPress theme with lots of powerful features, instantly giving a professional look to your online presence. Scolax comes with everything you could ever need to build an amazing website, and it's perfect for any type of business! View the demo of Scolax Premium https://demo.speciatheme.com/pro/?theme=scolax"
+msgstr "Scolax — это модная тема WordPress с множеством мощных функций, мгновенно придающих профессиональный вид вашему онлайн-присутствию. Scolax поставляется со всем, что вам может понадобиться для создания удивительного сайта, и она идеально подходит для любого типа бизнеса! Ознакомьтесь с демо-версией Scolax Premium https://demo.speciatheme.com/pro/?theme=scolax"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Scolax"
+msgstr "Scolax"
+
+#: inc/customize/scolax-premium.php:27
+msgid "Support Center"
+msgstr "Центр поддержки"
+
+#: inc/customize/scolax-premium.php:25
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: inc/customize/scolax-premium.php:23
+msgid "Premium Demo"
+msgstr "Демо-версия Premium"
+
+#: inc/customize/scolax-premium.php:7
+msgid "Upgrade to Premium"
+msgstr "Обновиться до Премиум"
+
+#. Template Name of the theme
+msgid "Homepage One"
+msgstr "Домашняя страница 1"
+
+#: sections/specia-breadcrumb.php:38
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: sections/specia-breadcrumb.php:34
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: sections/specia-breadcrumb.php:30
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: sections/specia-breadcrumb.php:26
+msgid "Tag Archives: %s"
+msgstr "Архив меток: %s"
+
+#: sections/specia-breadcrumb.php:22
+msgid "Category Archives: %s"
+msgstr "Архив рубрик: %s"
+
+#: sections/specia-breadcrumb.php:18
+msgid "Yearly Archives: %s"
+msgstr "Годовые архивы: %s"
+
+#: sections/specia-breadcrumb.php:14
+msgid "Monthly Archives: %s"
+msgstr "Месячные архивы: %s"
+
+#: sections/specia-breadcrumb.php:10
+msgid "Daily Archives: %s"
+msgstr "Ежедневные архивы: %s"
+
+#: sections/scolax-navigation.php:193
+msgid "0"
+msgstr "0"
+
+#: sections/scolax-navigation.php:168
+msgid "Type To Search"
+msgstr "Введите для поиска"
+
+#: sections/scolax-navigation.php:167
+msgid "Search for:"
+msgstr "Искать:"
+
+#: sections/scolax-navigation.php:166
+msgid "Site Search"
+msgstr "Поиск по сайту"
+
+#: inc/customize/scolax-header-section.php:80
+msgid "Link"
+msgstr "Ссылка"
+
+#: inc/customize/scolax-header-section.php:61
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: inc/customize/scolax-call-action.php:121
+#: inc/customize/scolax-header-section.php:20
+msgid "Icon"
+msgstr "Иконка"
+
+#: inc/customize/scolax-call-action.php:101
+msgid "Button Link 4"
+msgstr "Ссылка кнопки 4"
+
+#: inc/customize/scolax-call-action.php:81
+msgid "Button Label 4"
+msgstr "Текст кнопки 4"
+
+#: inc/customize/scolax-call-action.php:61
+msgid "Email"
+msgstr "Email"
+
+#: inc/customize/scolax-call-action.php:40
+#: inc/customize/scolax-header-section.php:40
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/customize/scolax-call-action.php:21
+msgid "Review"
+msgstr "Проверка"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://speciatheme.com/scolax-free/"
+msgstr "https://speciatheme.com/scolax-free/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://speciatheme.com/"
+msgstr "https://speciatheme.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Specia"
+msgstr "Specia"

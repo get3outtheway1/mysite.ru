@@ -1,0 +1,42 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ 
+
+  
+  
+  /*
+  Admin Dashboard css
+  */
+  
+  .sticky-header-body {
+    width: 60%;
+  }
+  
+  .sticky-header-input {
+    border-bottom: 1px solid rgb(99, 99, 99);
+    padding: 25px 0px;
+  }
+  .sticky-header-input label {
+    min-width: 200px;
+    display: inline-block;
+  }
+  
+  #add-sticky-header button{
+    width: 100px;
+    height: 40px;
+    background-color: #2271B1;
+    border-radius: 3px;
+    border: none;
+    color: #fff;
+    margin-top: 20px;
+  }
+  
+  
+  @media only screen and (max-width: 768px) {
+    .sticky-header-body {
+      width: 100%;
+    }
+  }
